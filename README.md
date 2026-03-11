@@ -65,11 +65,6 @@ python src/device_registry.py
 
 Each script simulates distributed device coordination and prints system activity in the console.
 
-## Example output
-
-![Device registry example](assets/device_registry.png)
-![Heartbeat monitoring example](assets/heartbeat_monitor.png)
-
 ## Project tree
 
 ```bash
@@ -78,9 +73,6 @@ edge-device-coordination
 ├─ LICENSE
 ├─ README.es.md
 ├─ README.md
-├─ assets
-│  ├─ device_registry.png
-│  └─ heartbeat_monitor.png
 ├─ pyproject.toml
 ├─ src
 │  ├─ device_registry.py

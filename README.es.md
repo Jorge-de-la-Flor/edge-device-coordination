@@ -65,27 +65,19 @@ python src/device_registry.py
 
 Cada script simula la coordinación distribuida de dispositivos e imprime la actividad del sistema en la consola.
 
-## Ejemplo de salida
-
-![Ejemplo de registro de dispositivo](assets/device_registry.png)
-![Ejemplo de monitorización de latidos](assets/heartbeat_monitor.png)
-
 ## Árbol del proyecto
 
 ```bash
 edge-device-coordination
 ├─ .python-version
-├─ LICENCIA
+├─ LICENSE
 ├─ README.es.md
 ├─ README.md
-├─ activos
-│ ├─ device_registry.png
-│ └─ heartbeat_monitor.png
 ├─ pyproject.toml
 ├─ src
-│ ├─ device_registry.py
-│ ├─ heartbeat_monitor.py
-│ └─ node_service.py
+│  ├─ device_registry.py
+│  ├─ heartbeat_monitor.py
+│  └─ node_service.py
 └─ uv.lock
 ```
 
