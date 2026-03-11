@@ -1,4 +1,4 @@
-Español | Inglés (README.es.md)
+[English](README.md) | Español
 
 # Coordinación de Dispositivos de Borde
 
